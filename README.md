@@ -10,6 +10,12 @@ Um **portfólio interativo inspirado no Terminal do macOS**, onde comandos simul
 Interface **minimalista, moderna e voltada para desenvolvedores**, permitindo navegar pelas informações através de comandos de terminal.
 
 ---
+## 🚀 Deploy
+
+Acesse o projeto online:
+
+🔗 https://terminalportfoliomacos.vercel.app/
+---
 
 # 📋 Table of Contents
 
